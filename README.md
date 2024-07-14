@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi Everyone👋, I'm Nusrath Banu k</h1>
 <h3 align="center">Frontend developer</h3>
 <img align="right" alt="image" width="400px" src="https://img.freepik.com/premium-photo/html-system-website-concept_23-2150376770.jpg?size=626&ext=jpg&ga=GA1.1.520765583.1720968783&semt=sph">
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrathbanu-hub&label=Profile%20views&color=0e75b6&style=flat" alt="nusrathbanu-hub" /> </p>
 
